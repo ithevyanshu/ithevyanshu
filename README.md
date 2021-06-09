@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Divyanshu Mishra
 #### I am MERN Stack Developer
 
-Skills: NODE JS / REACT / MONGO DB / JS / HTML / CSS
+Skills: NODE JS / EXPRESS JS / REACT / MONGO DB / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
